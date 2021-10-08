@@ -16,12 +16,12 @@ export default function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
-      <About />
-      <Projects />
-      <Skills />
-      <Education />
-      <Contact />
-      <ParticleBackground/>
+      <About className= "fill-window" />
+      <Projects className= "fill-window" />
+      <Skills className= "fill-window"/>
+      <Education className= "fill-window"/>
+      <Contact className= "fill-window"/>
+      <ParticleBackground className= "fill-window"/>
     </main>
   );
 }

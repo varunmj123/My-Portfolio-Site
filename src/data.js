@@ -29,7 +29,7 @@ export const projects = [
     description:
       "A simple website application made on React to dislay all my previous work, contanct infromation and a short biography.",
     image: "./portfoliogif.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/varunmj123/My-Portfolio-Site",
   },
 ];
 
