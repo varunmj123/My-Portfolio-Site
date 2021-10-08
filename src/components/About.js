@@ -14,7 +14,7 @@ export default function About() {
             </Fade>
           </h1>
           <Fade left>
-          <p className="mb-8 mr-96 leading-relaxed">
+          <p className="mb-8 leading-relaxed">
           4th-year computer science student currently studying at the University of British Columbia
           with extensive experience building mobile and web applications.       
           </p>
